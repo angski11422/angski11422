@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hey There! 👋</h1>
-<h3 align="center">A curious Full Stack Software Engineer with a thirst for knowledge</h3>
+<h3 align="center">I'm a curious Full Stack Software Engineer with a thirst for knowledge</h3>
 <br></br>
 
 - 🔭 I’m currently working on **Well Read - A bookclub finder**
