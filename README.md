@@ -34,6 +34,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=angski11422&show_icons=true&locale=en&layout=compact" alt="angski11422" /></p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
